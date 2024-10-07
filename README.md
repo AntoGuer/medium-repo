@@ -1,6 +1,6 @@
 # Medium Articles Code
 
-This repository contains the source code related to articles published on Medium by Vargroup Data Science's people.
+This repository contains the source code related to articles published on Medium by Var Group Data Science's people.
 
 ## Repository Structure
 
