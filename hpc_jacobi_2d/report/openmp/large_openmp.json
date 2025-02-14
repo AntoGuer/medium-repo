@@ -1,0 +1,54 @@
+[{
+    "better-time-evaluation-timestamp=2025-01-25_19-10-30": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.06926900
+    }
+}
+,
+{
+    "better-time-evaluation-timestamp=2025-01-25_19-10-30": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.06877800
+    }
+}
+,
+{
+    "better-time-evaluation-timestamp=2025-01-25_19-10-31": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.06239033
+    }
+}
+,
+{
+    "better-time-evaluation-timestamp=2025-01-25_19-10-31": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.05783500
+    }
+}
+,
+{
+    "better-time-evaluation-timestamp=2025-01-25_19-10-32": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.05669233
+    }
+}]

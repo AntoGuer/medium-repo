@@ -1,0 +1,11 @@
+[{
+    "better-time-evaluation-timestamp=2025-01-24_18-29-22": {
+        "script-name": "jacobi-2d-imper",
+        "runs-number": 5,
+        "maximal-variance-authorized": {
+            "3-average-runs": "5%"
+        },
+        "Normalized-time": 0.00490800
+    }
+}
+]
